@@ -1,0 +1,16 @@
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+C:\Users\klaco\source\repos\API\TalabatSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json

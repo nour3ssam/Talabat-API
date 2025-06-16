@@ -1,0 +1,40 @@
+
+
+bin /
+obj /
+out/
+
+# User files
+*.user
+*.suo
+*.sln.docstates
+
+# IDE settings
+.vscode /
+.idea /
+
+# ASP.NET Core secrets and config
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Static assets (optional: only ignore generated content)
+wwwroot / node_modules /
+wwwroot / dist /
+wwwroot / build /
+
+# npm stuff
+node_modules /
+
+# Publish output
+publish /
+
+# OS/system files
+.DS_Store
+Thumbs.db

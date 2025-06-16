@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\klaco\\source\\repos\\API\\TalabatSolution\\TalabatAPI\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TalabatAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TalabatAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TalabatAPI.props",
+      "PackagePath": "build\\TalabatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TalabatAPI.props",
+      "PackagePath": "buildMultiTargeting\\TalabatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TalabatAPI.props",
+      "PackagePath": "buildTransitive\\TalabatAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
